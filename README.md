@@ -11,5 +11,3 @@ I am a skilled and passionate Front-End Developer with 6 years of experience in 
 ![](https://nirzak-streak-stats.vercel.app/?user=jawahendy&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jawahendy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jawahendy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
