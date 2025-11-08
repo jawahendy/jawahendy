@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a skilled and passionate Front-End Developer with 6 years of experience in creating <br>responsive, user-friendly web applications and mobile apps. I specialize in modern web <br>technologies and popular frameworks like React etc, I also have hands-on experience in <br>mobile app development using React Native and other mobile-first design approaches, <br>enabling me to build seamless, cross-platform applications for both iOS and Android, <br>With a strong understanding of UI/UX design principles
+I am a skilled and passionate Software Engineer with 6 years of experience in creating <br>responsive, user-friendly web applications and mobile apps. I specialize in modern web <br>technologies and popular frameworks like React etc, I also have hands-on experience in <br>mobile app development using React Native and other mobile-first design approaches, <br>enabling me to build seamless, cross-platform applications for both iOS and Android, <br>With a strong understanding of UI/UX design principles
 
 
 ## 🌐 Socials:
